@@ -25,6 +25,6 @@ into a design that works on both **mobile** and **desktop** screens, applying th
 
 ## 👩🏻‍💻 Author
 
-[![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://wwww.github.com/ipaulaa)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://wwww.linkedin.com/in/ipaulaa)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/ipaulaa)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ipaulaa)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/ipaulaa)
