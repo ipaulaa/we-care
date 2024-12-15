@@ -93,3 +93,40 @@ p {
 
   cursor: pointer;
 }
+
+@media (max-width: 1000px) {
+  header {
+    display: none;
+  }
+
+  .logo {
+    width: calc(100vw - 34px);
+    height: auto;
+    margin: 149px 17px 24px;
+  }
+
+  section {
+    display: block;
+    margin: 0 64px;
+
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 50px;
+    line-height: 61px;
+  }
+
+  h2 {
+    font-size: 30px;
+    line-height: 37px;
+  }
+
+  p {
+    display: none;
+  }
+
+  .explore-btn {
+    margin-top: 17px;
+  }
+}
